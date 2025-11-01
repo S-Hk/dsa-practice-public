@@ -1,6 +1,6 @@
 /*
 Problem:
-https://leetcode.com/problems/merge-sorted-array/description/
+https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/
  */
 
 class Solution {
