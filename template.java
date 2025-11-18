@@ -17,6 +17,8 @@ TODO: Any additional test cases tried
 //commit message format reference:
 /*
 Day00_20251100_Array_leetcode-url-path
-*/
+
+Day00_20251100_List_leetcode-url-path
+*/ 
 
 //current problems list: https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
